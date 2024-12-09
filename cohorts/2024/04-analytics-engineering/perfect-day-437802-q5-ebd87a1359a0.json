@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "perfect-day-437802-q5",
+  "private_key_id": "ebd87a1359a0a59e3e0f37f442bf1c491f791b10",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC96+ZZX8ljthxF\noU6r8AUioLVuxmn94PB9dj0hbBRbqy3+SrrIz0EMqgsE/BYG9AH3cJj9eAvAg9MD\nf1uzpxqhOTJUvb1PmcJxM/hrgm9Xn1nUx75JAPHTd4+J1Hj5yGz1JW0BC0Lx8fgT\nGwOXseZ0P1Kn8hn7hifbGEI6D8tfVNeC04a6tn3V+qXCzIE5muZNMkaJnMFbAHIv\nMqEOEDlrQlPCcwCSTQzBFCusOeWfPaW5UAAeF4vlUtpNzqQ8NwYQK9+hra8J45PU\n4q4s/VLu7AbWeOJcly+Mm0vJoW6zpFrrG8OK4iEY5Uxw92iXozN/xlNsQ1TuZR3A\ncl75ngpRAgMBAAECggEASmBzdeXSxyde/A/XcPNO94grdYXjpWatl9yxxQCAGoQ3\nv2IBszmjNnPzW9DjSXbOvFoOuBkGtS6K+VArl/glsCTnppMl6+IB6XZaX7QVqaGA\nuxk8Vne1vMSSZH5eoCeTMBAnl6SS45CIv+aw6fvkDftsgdQIw91+h0mBSh68XQj+\nH3dqs6AMZ6az7PmwTq+VYe/Fy7xZfno1nE4UgoGGVSD+9eGfXbv34IV1whTleyX0\nwIGxIrHfdGUCDFTlq4ts7aIFIZ5cmQ9LzvXyyBIPHE9hSXq0dUq0ovC4WiPzd1yP\nayQuflg8IwboqeiuzQU6C1os0GhHeKb+/YhNFos3zwKBgQDubKlUTqUm15g2gvsk\nVu72AoLEKZiaAShS75TE5wBifuNk9CIO7YMvKE1L4pHH8JCn3qFHsjc5bcZA93p6\nSwme72aawG+E7FwGFdKtTTs+OWA+RRfecfbhRAjIKXdHhL3CN4wH9re1kbrWP/mp\npDJDqzjTgG4HFv5KO9N1LTfQOwKBgQDL6+63q7js/Og/FfLk6yvFWK7nS/iXS9fP\n3dChxWbCPqRdQnF33eEOH2tCwlLsXPILwk93umFcSMEa7qeSBsBOp7DeXaJ3OU3z\n0AgSP9lPRUiKH8J/Gzmndr7gsussUmolqKNuVMaORDjA0n6YGStarlz9/ON+dSxe\nj9/Bk/DS4wKBgFujTg3GUHm2YZ2KCEb2VtAdNO96YVnH2hzOUqq/colo5bN2leSQ\n61vjrJnfElL7pk2vJuPsnocnJwzvUZbRYnhA4XnXPsWjJtd76caMKZoH6XLlkYAA\n43e/c3SjY2IMpfaQ7PReoktaIKqaWjYWku8pTyUTdrao4sHbbrHZ2FrjAoGARWWa\nTLlM6qG669UtXwhFUhi3FRG+nMZ7wErNeHA0Y0BsMSyubst8jpDUsNhu3e9Xk/bh\nkm5EOeKsjNzQ/Bn+EgZxY4tcAdTnmWSfio5eBuMeJ5tdVmJOgZYgqVlaPTAi3YQB\ncke5dqry4XQBDwPpxCd4kBsi1GNN4TR3Qmp1V18CgYBd4Nf6l9IGobPf+pg56xzt\ncQITX2GRUhc49jwLoxT3SU/Lgu++NlQ5Eb3bEnOF90KYYiZt58SPo/1M89FASmem\nu2jaYAkvy6YI7yHEubLpNS4bEwzSpzBWR6KonVrrWxdX0aqZsws8JpGim+IT9ST+\nHZrHsTX0YsAatdlaOo1v8g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-service-account@perfect-day-437802-q5.iam.gserviceaccount.com",
+  "client_id": "107893274098602364189",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-service-account%40perfect-day-437802-q5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
